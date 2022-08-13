@@ -946,7 +946,7 @@ void header(){
 }
 
 //Demonstration of Templates
-//idea is to pass data type as a parameter so that we don’t need to write the same code for different data types.
+//idea is to pass data type as a parameter so that we donÂ’t need to write the same code for different data types.
 template<class T,class T1>
 class Employee {
 	public:	
